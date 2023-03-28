@@ -1,0 +1,7 @@
+
+0
+java:S1220""Move this file to a named package.
+^
+java:S1659"BDeclare "lexer" and all following declarations on a separate line.(æÉŸ98–Æª‹0
+T
+java:S1874"8Remove this use of "ANTLRInputStream"; it is deprecated.(æÉŸ98»Æª‹0
